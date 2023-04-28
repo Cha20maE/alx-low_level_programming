@@ -1,8 +1,8 @@
-#include"main.h"
+#include "main.h"
 
 /**
-  * main - Determines if a number is positive, negative or zero.
-  * @n: The number to be checked
+  * positive_or_negative - Determines if a number is positive, negative or 0.
+  * @i: The number to be checked
   * Return: Always 0 (Success)
   */
 
